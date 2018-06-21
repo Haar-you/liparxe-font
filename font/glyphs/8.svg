@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <path transform="translate(-24000,0)" style="fill:#000000;fill-opacity:1;stroke:none" d="m 24249.562,121.92468 a 30.003,30.003 0 0 0 -29.562,30.4375 l 0,320 a 30.003,30.003 0 0 0 30,30 l 350,0 0,310 a 30.003,30.003 0 1 0 60,0 l 0,-340 a 30.003,30.003 0 0 0 -30,-30 l -350,0 0,-290 a 30.003,30.003 0 0 0 -30.438,-30.4375 z"/>
+</svg>
